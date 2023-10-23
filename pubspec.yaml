@@ -4,7 +4,7 @@ version: 0.2.0
 homepage: https://github.com/Crdzbird/flowder
 
 environment:
-  sdk: ">=3.0。6 <4.0.0"
+  sdk: ">=3.0.6 <4.0.0"
   flutter: ">=1.20.0"
 
 dependencies:
